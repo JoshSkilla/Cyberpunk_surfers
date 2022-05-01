@@ -1,8 +1,3 @@
-
-### Move ball up and down and hit for score
-
-
-
 import pygame
 import random
 from time import time, sleep
