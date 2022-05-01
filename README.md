@@ -1,5 +1,5 @@
 # Cyberpunk_surfers
-Created using the Pygame library, Cyberpunk Surfers is my interpretation of a 2D cyberpunk version of the popular subway surfers game.
+Created using the Pygame library, Cyberpunk Surfers is my interpretation of a 2D cyberpunk version of the popular subway surfers game. Watch gameplay.mp4 to see how to play.
 
 Program: main.py
 
